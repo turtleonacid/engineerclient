@@ -15,11 +15,6 @@
 3. Reload ChatTriggers with `/ct reload`.
 4. Configure settings and enjoy the enhanced experience!
 
-### Commands
-- `/engineer toggle` - Enable or disable specific features.
-- `/engineer settings` - Access configuration options.
-- `/engineer help` - View all available commands.
-
 ### Known Issues
 - None reported so far! Feel free to submit bugs or suggestions in the [Issues](https://github.com/turtleonacid/engineerclient/issues) section.
 
